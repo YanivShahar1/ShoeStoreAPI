@@ -6,5 +6,3 @@ obj/
 *.dbmdl
 *.log
 .env
-
-appsettings.Development.json
